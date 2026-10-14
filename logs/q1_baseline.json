@@ -1,0 +1,7 @@
+{
+  "model": "DecisionTreeClassifier",
+  "random_seed": 26504,
+  "validation_accuracy": 0.575,
+  "clean_test_accuracy": 0.6125,
+  "masked_test_accuracy": 0.025
+}
