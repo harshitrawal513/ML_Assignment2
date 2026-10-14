@@ -1,0 +1,16 @@
+
+{
+  "dataset": "olivetti_faces",
+  "random_seed": 26504,
+  "image_height": 64,
+  "image_width": 64,
+  "n_identities": 40,
+  "images_per_identity": 10,
+  "train_per_identity": 6,
+  "validation_per_identity": 2,
+  "test_per_identity": 2,
+  "feature_type": "raw_flattened_pixels",
+  "n_features": 4096,
+  "mask_rows": [24, 39],
+  "mask_columns": [24, 39]
+}
