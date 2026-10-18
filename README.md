@@ -1,8 +1,8 @@
 # Machine Learning Assignment 2
 
 ## Student Details
-- Name: [Enter your full name]
-- Roll Number: m26ecm504
+- Name: Harshid Bhupendra Rawal 
+- Roll Number: M26ECM504 
 
 ## Dataset
 - Olivetti Faces: 400 images, 40 identities, 64 x 64 pixels
