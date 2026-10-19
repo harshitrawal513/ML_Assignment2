@@ -2,9 +2,6 @@
 
 Last updated: 2026-10-18
 
-## Purpose
-This file is the handover note for continuing the ML Assignment 2 work in a future ChatGPT conversation or development session.
-
 ## Project setup
 - Project: ML_Assignment_2
 - Environment: macOS, VS Code, Python 3.8.10, virtual environment `.venv`
