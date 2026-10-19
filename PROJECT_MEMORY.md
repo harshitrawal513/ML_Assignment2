@@ -68,8 +68,6 @@ Last updated: 2026-10-18
    ```bash
    git push -u origin main
    ```
-6. Verify Q1/Q2/Q3 results, assignment compliance, reproducibility, and report claims before final submission.
-7. Keep this file updated whenever an important decision, result, commit hash, or next action changes.
 
-## Resume prompt for a future ChatGPT session
-I am continuing my ML_Assignment_2 project. First read `PROJECT_MEMORY.md`, then ask me for current `git status`, `git log -5 --oneline`, and any relevant code/output before assuming the repository state. Help me continue from the recorded next steps, preserve the assignment constraints, and do not claim anything is committed or pushed until the terminal output confirms it.
+
+
